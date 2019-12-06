@@ -4,4 +4,5 @@ class John {
 
     public John() {
     }
+
 }
